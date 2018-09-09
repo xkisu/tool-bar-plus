@@ -1,23 +1,9 @@
-# Atom Tool Bar
+# Atom Tool Bar+
 
-[![Travis CI](https://travis-ci.org/suda/tool-bar.svg?branch=master)](https://travis-ci.org/suda/tool-bar)
-[![Circle CI](https://circleci.com/gh/suda/tool-bar/tree/master.svg?style=shield)](https://circleci.com/gh/suda/tool-bar/tree/master)
-[![AppVeyor](https://ci.appveyor.com/api/projects/status/xtm6u3sn3oil50da?svg=true)](https://ci.appveyor.com/project/suda/tool-bar)
-[![apm](https://img.shields.io/apm/dm/tool-bar.svg)]()
-[![Chat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/suda/tool-bar?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+This package in an enhansed version of the tool-bar atom package which provides an extendable tool bar for Atom.
 
-This package provides extensible tool bar for Atom.
-
-**Note:** this package by itself adds an empty toolbar. To propagate it with
-icons you can [install plugins](#plugins).
-
-![Horizontal](http://cl.ly/image/2w0u3c1x1K3W/Screenshot-2015-04-21-16.46.49.png)
-
-![Vertical](http://cl.ly/image/1t3U3F191p35/Screenshot-2015-04-21-16.45.46.png)
-
-![Different Sizes](http://cl.ly/image/3v1N2F3e3I47/Screenshot-2015-04-21-16.45.46_2.png)
-
-![Light Theme](http://cl.ly/image/0g043b1e0P1X/Screenshot-2015-04-21-16.46.02.png)
+**Note:** Like the original tool-bar package, this package by itself adds an empty toolbar. To propagate it with
+content you can [install plugins](#plugins).
 
 ## Configuration
 
@@ -53,12 +39,7 @@ currently) it can display up to seven tool bar buttons there.
 
 ## Plugins
 
-*   [Flex Tool Bar](https://atom.io/packages/flex-tool-bar)
-*   [Tool Bar Main](https://atom.io/packages/tool-bar-main)
-*   [Toolbar Almighty](https://atom.io/packages/tool-bar-almighty)
-*   [Toolbar for Atom](https://atom.io/packages/tool-bar-atom)
-*   [Toolbar Shortcuts](https://atom.io/packages/tool-bar-shortcuts)
-*   And [more](https://atom.io/packages/search?utf8=%E2%9C%93&q=keyword%3Atool-bar)...
+All the plugins for tool-bar can be used with tool-bar-plus. See a summary of the Atom packages that have the keyword [tool-bar](https://atom.io/packages/search?utf8=%E2%9C%93&q=keyword%3Atool-bar).
 
 ## Packages using tool-bar
 
